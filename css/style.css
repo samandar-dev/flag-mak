@@ -195,3 +195,72 @@ input[type="text"]:focus {
 .tit-tx-spann {
   color: var(--span-color);
 }
+
+.main__inner {
+  padding: 80px 0;
+}
+
+.main__item {
+  padding-top: 80px;
+}
+
+.main__back-btn {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  display: inline-block;
+  color: var(--text-color);
+  text-decoration: none;
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.293139);
+  border-radius: 6px;
+  padding: 8px 40px 10px 32px;
+}
+
+.bx-left-arrow-alt {
+  margin-right: 10px;
+  padding-top: 8px;
+}
+
+.falg-img-be {
+  background: #808080;
+  box-shadow: 0px 0px 14px 4px rgba(0, 0, 0, 0.0294384);
+  border-radius: 10.0057px;
+  margin-right: 120px;
+}
+
+.falg__title {
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 44px;
+
+  color: var(--text-color);
+  margin-bottom: 23px;
+}
+
+.flag-manu-one {
+  list-style-type: none;
+  margin-right: 140px;
+  margin-bottom: 70px;
+}
+
+.flag-manu {
+  list-style-type: none;
+}
+
+.tit__text {
+  margin: 20px 0;
+}
+
+.falg__btn {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: var(--text-color);
+  background: transparent;
+  box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.104931);
+  border-radius: 2px;
+  border: none;
+  padding: 5px 27px;
+  margin: 0 10px;
+}
